@@ -11,10 +11,10 @@
 }
 
 .Add-List-Button {
-  background-color: rgba(0, 0, 0, 0.12);
+  background-color: rgba(241, 237, 237, 0.12);
   border-radius: 10px;
   cursor: pointer;
-  color: #fff;
+  color: #0b1b32;
   display: flex;
   align-items: center;
   min-height: 32px;
@@ -25,7 +25,7 @@
 }
 
 .Add-List-Button:hover {
-  background-color: rgba(0, 0, 0, 0.24);
+  background-color: rgba(209, 209, 209, 0.295);
 }
 
 .Add-List-Button ion-icon {
